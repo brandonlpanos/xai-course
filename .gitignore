@@ -1,0 +1,7 @@
+cas_env/
+*.pyc
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+instructions/
+lectures/
