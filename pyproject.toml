@@ -1,0 +1,20 @@
+[project]
+name = "xai-course"
+version = "0.1.0"
+description = "Hands-on notebooks for an Explainable AI course"
+requires-python = ">=3.11"
+dependencies = [
+    "torch",
+    "torchvision",
+    "timm",
+    "captum",
+    "lime",
+    "transformers",
+    "matplotlib",
+    "pandas",
+    "scikit-learn",
+    "shap",
+    "xgboost",
+    "dice-ml",
+    "jupyterlab>=4.6.5",
+]

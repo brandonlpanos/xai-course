@@ -1,4 +1,5 @@
 cas_env_main/
+.venv/
 *.pyc
 .ipynb_checkpoints/
 __pycache__/
